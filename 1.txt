@@ -1,6 +1,6 @@
 void main()
 {
 	printf("1aaa");
-30
+40
 	printf("2bbb");
 }
